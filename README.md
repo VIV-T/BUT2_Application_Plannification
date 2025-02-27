@@ -1,4 +1,4 @@
-# BUT2_Application_Plannification
+# Application_Plannification
 
 ## Présentation
 
